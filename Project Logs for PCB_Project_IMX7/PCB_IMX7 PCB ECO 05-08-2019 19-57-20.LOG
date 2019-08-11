@@ -1,0 +1,366 @@
+Removed Pin From Net: NetName=NetR?_2 Pin=R?-2
+Removed Pin From Net: NetName=NVCC_DRAM Pin=U?-AA19
+Removed Pin From Net: NetName=DRAM_DATA20 Pin=U?-AA26
+Removed Pin From Net: NetName=DRAM_DATA14 Pin=U?-AB16
+Removed Pin From Net: NetName=DRAM_DATA9 Pin=U?-AB18
+Removed Pin From Net: NetName=DRAM_SDQS1_P Pin=U?-AB20
+Removed Pin From Net: NetName=DRAM_ADDR4 Pin=U?-AB24
+Removed Pin From Net: NetName=DRAM_ADDR3 Pin=U?-AB25
+Removed Pin From Net: NetName=DRAM_DATA21 Pin=U?-AB26
+Removed Pin From Net: NetName=DRAM_DATA22 Pin=U?-AB27
+Removed Pin From Net: NetName=DRAM_DATA23 Pin=U?-AB28
+Removed Pin From Net: NetName=DRAM_DATA11 Pin=U?-AC16
+Removed Pin From Net: NetName=DRAM_DATA8 Pin=U?-AC18
+Removed Pin From Net: NetName=NVCC_DRAM Pin=U?-AC19
+Removed Pin From Net: NetName=DRAM_SDQS1_N Pin=U?-AC20
+Removed Pin From Net: NetName=DRAM_ADDR9 Pin=U?-AC22
+Removed Pin From Net: NetName=DRAM_ADDR0 Pin=U?-AC24
+Removed Pin From Net: NetName=DRAM_ADDR1 Pin=U?-AC25
+Removed Pin From Net: NetName=DRAM_ADDR2 Pin=U?-AC26
+Removed Pin From Net: NetName=DRAM_SDQS2_P Pin=U?-AC27
+Removed Pin From Net: NetName=DRAM_DATA10 Pin=U?-AD16
+Removed Pin From Net: NetName=DRAM_DATA12 Pin=U?-AD18
+Removed Pin From Net: NetName=DRAM_SDQM1 Pin=U?-AD20
+Removed Pin From Net: NetName=DRAM_ADDR8 Pin=U?-AD22
+Removed Pin From Net: NetName=DRAM_SDQS2_N Pin=U?-AD27
+Removed Pin From Net: NetName=DRAM_SDQM2 Pin=U?-AD28
+Removed Pin From Net: NetName=DRAM_DATA15 Pin=U?-AE16
+Removed Pin From Net: NetName=DRAM_DATA13 Pin=U?-AE18
+Removed Pin From Net: NetName=DRAM_ADDR7 Pin=U?-AE22
+Removed Pin From Net: NetName=DRAM_ADDR5 Pin=U?-AE23
+Removed Pin From Net: NetName=DRAM_SDCLK0_P Pin=U?-AE25
+Removed Pin From Net: NetName=DRAM_CS0_B Pin=U?-AE26
+Removed Pin From Net: NetName=NVCC_DRAM Pin=U?-AF17
+Removed Pin From Net: NetName=NVCC_DRAM Pin=U?-AF18
+Removed Pin From Net: NetName=NVCC_DRAM Pin=U?-AF19
+Removed Pin From Net: NetName=DRAM_DATA4 Pin=U?-AF20
+Removed Pin From Net: NetName=DRAM_DATA6 Pin=U?-AF21
+Removed Pin From Net: NetName=DRAM_DATA3 Pin=U?-AF22
+Removed Pin From Net: NetName=DRAM_ADDR6 Pin=U?-AF23
+Removed Pin From Net: NetName=DRAM_SDCLK0_N Pin=U?-AF25
+Removed Pin From Net: NetName=NVCC_DRAM Pin=U?-AG18
+Removed Pin From Net: NetName=DRAM_DATA1 Pin=U?-AG19
+Removed Pin From Net: NetName=DRAM_DATA2 Pin=U?-AG20
+Removed Pin From Net: NetName=DRAM_DATA5 Pin=U?-AG22
+Removed Pin From Net: NetName=DRAM_SDQS0_N Pin=U?-AG23
+Removed Pin From Net: NetName=DRAM_SDQS0_P Pin=U?-AG24
+Removed Pin From Net: NetName=NVCC_DRAM Pin=U?-AH18
+Removed Pin From Net: NetName=DRAM_DATA7 Pin=U?-AH20
+Removed Pin From Net: NetName=DRAM_DATA0 Pin=U?-AH22
+Removed Pin From Net: NetName=DRAM_SDQM0 Pin=U?-AH24
+Removed Pin From Net: NetName=DRAM_DATA31 Pin=U?-B7
+Removed Pin From Net: NetName=DRAM_DATA29 Pin=U?-B8
+Removed Pin From Net: NetName=DRAM_DATA26 Pin=U?-B9
+Removed Pin From Net: NetName=DRAM_DATA25 Pin=U?-C8
+Removed Pin From Net: NetName=DRAM_DATA30 Pin=U?-D6
+Removed Pin From Net: NetName=DRAM_DATA27 Pin=U?-D7
+Removed Pin From Net: NetName=DRAM_SDQS3_P Pin=U?-D8
+Removed Pin From Net: NetName=DRAM_SDQS3_N Pin=U?-D9
+Removed Pin From Net: NetName=DRAM_ADDR9 Pin=U?-E2
+Removed Pin From Net: NetName=DRAM_ADDR8 Pin=U?-E3
+Removed Pin From Net: NetName=DRAM_DATA28 Pin=U?-E5
+Removed Pin From Net: NetName=DRAM_DATA24 Pin=U?-E6
+Removed Pin From Net: NetName=DRAM_SDQM3 Pin=U?-E7
+Removed Pin From Net: NetName=DRAM_DATA15 Pin=U?-E8
+Removed Pin From Net: NetName=DRAM_ADDR6 Pin=U?-F2
+Removed Pin From Net: NetName=DRAM_ADDR7 Pin=U?-F3
+Removed Pin From Net: NetName=DRAM_DATA11 Pin=U?-F6
+Removed Pin From Net: NetName=DRAM_DATA13 Pin=U?-F7
+Removed Pin From Net: NetName=DRAM_DATA14 Pin=U?-F8
+Removed Pin From Net: NetName=DRAM_DATA12 Pin=U?-F9
+Removed Pin From Net: NetName=DRAM_ADDR5 Pin=U?-G2
+Removed Pin From Net: NetName=DRAM_SDQS1_N Pin=U?-G5
+Removed Pin From Net: NetName=DRAM_SDQS1_P Pin=U?-G6
+Removed Pin From Net: NetName=DRAM_DATA10 Pin=U?-G7
+Removed Pin From Net: NetName=DRAM_DATA9 Pin=U?-G8
+Removed Pin From Net: NetName=DRAM_DATA8 Pin=U?-G9
+Removed Pin From Net: NetName=DRAM_SDCLK0_N Pin=U?-H3
+Removed Pin From Net: NetName=DRAM_SDQM1 Pin=U?-H5
+Removed Pin From Net: NetName=DRAM_SDCLK0_P Pin=U?-J3
+Removed Pin From Net: NetName=DRAM_SDCKE0 Pin=U?-K1
+Removed Pin From Net: NetName=DRAM_SDQM0 Pin=U?-K5
+Removed Pin From Net: NetName=DRAM_CS0_B Pin=U?-L1
+Removed Pin From Net: NetName=DRAM_SDQS0_N Pin=U?-L5
+Removed Pin From Net: NetName=DRAM_SDQS0_P Pin=U?-L6
+Removed Pin From Net: NetName=DRAM_DATA5 Pin=U?-L7
+Removed Pin From Net: NetName=DRAM_DATA6 Pin=U?-L8
+Removed Pin From Net: NetName=DRAM_DATA7 Pin=U?-L9
+Removed Pin From Net: NetName=DRAM_ADDR4 Pin=U?-M1
+Removed Pin From Net: NetName=DRAM_ADDR3 Pin=U?-M2
+Removed Pin From Net: NetName=DRAM_ADDR2 Pin=U?-M3
+Removed Pin From Net: NetName=DRAM_DATA4 Pin=U?-M6
+Removed Pin From Net: NetName=DRAM_DATA2 Pin=U?-M7
+Removed Pin From Net: NetName=DRAM_DATA1 Pin=U?-M8
+Removed Pin From Net: NetName=DRAM_DATA3 Pin=U?-M9
+Removed Pin From Net: NetName=DRAM_ADDR1 Pin=U?-N3
+Removed Pin From Net: NetName=DRAM_DATA19 Pin=U?-N5
+Removed Pin From Net: NetName=DRAM_DATA23 Pin=U?-N6
+Removed Pin From Net: NetName=DRAM_SDQM2 Pin=U?-N7
+Removed Pin From Net: NetName=DRAM_DATA0 Pin=U?-N8
+Removed Pin From Net: NetName=DRAM_ADDR0 Pin=U?-P3
+Removed Pin From Net: NetName=DRAM_DATA17 Pin=U?-P6
+Removed Pin From Net: NetName=DRAM_DATA20 Pin=U?-P7
+Removed Pin From Net: NetName=DRAM_SDQS2_P Pin=U?-P8
+Removed Pin From Net: NetName=DRAM_SDQS2_N Pin=U?-P9
+Removed Pin From Net: NetName=DRAM_DATA22 Pin=U?-R8
+Removed Pin From Net: NetName=DRAM_DATA16 Pin=U?-T7
+Removed Pin From Net: NetName=DRAM_DATA18 Pin=U?-T8
+Removed Pin From Net: NetName=DRAM_DATA21 Pin=U?-T9
+Removed Pin From Net: NetName=DDR_VREF Pin=U?-T20
+Removed Pin From Net: NetName=DRAM_DATA27 Pin=U?-T22
+Removed Pin From Net: NetName=DRAM_DATA26 Pin=U?-T23
+Removed Pin From Net: NetName=DRAM_DATA31 Pin=U?-T24
+Removed Pin From Net: NetName=DRAM_DATA30 Pin=U?-T25
+Removed Pin From Net: NetName=NVCC_DRAM Pin=U?-V20
+Removed Pin From Net: NetName=DRAM_DATA25 Pin=U?-V22
+Removed Pin From Net: NetName=DRAM_DATA24 Pin=U?-V23
+Removed Pin From Net: NetName=DRAM_DATA28 Pin=U?-V24
+Removed Pin From Net: NetName=DRAM_DATA29 Pin=U?-V25
+Removed Pin From Net: NetName=NVCC_DRAM Pin=U?-V27
+Removed Pin From Net: NetName=NVCC_DRAM Pin=U?-V28
+Removed Pin From Net: NetName=NVCC_DRAM Pin=U?-W21
+Removed Pin From Net: NetName=NVCC_DRAM Pin=U?-W23
+Removed Pin From Net: NetName=NVCC_DRAM Pin=U?-W26
+Removed Pin From Net: NetName=DRAM_DATA16 Pin=U?-W27
+Removed Pin From Net: NetName=NetR?_2 Pin=U?-Y18
+Removed Pin From Net: NetName=NVCC_DRAM Pin=U?-Y20
+Removed Pin From Net: NetName=DRAM_SDCKE0 Pin=U?-Y22
+Removed Pin From Net: NetName=DRAM_SDQS3_P Pin=U?-Y23
+Removed Pin From Net: NetName=DRAM_SDQS3_N Pin=U?-Y24
+Removed Pin From Net: NetName=DRAM_SDQM3 Pin=U?-Y25
+Removed Pin From Net: NetName=DRAM_DATA18 Pin=U?-Y26
+Removed Pin From Net: NetName=DRAM_DATA17 Pin=U?-Y27
+Removed Pin From Net: NetName=DRAM_DATA19 Pin=U?-Y28
+Removed Member From Class: ClassName=IMX7S_MEMORY Member=R?
+Removed Member From Class: ClassName=IMX7S_PMIC Member=R?
+Change Component Designator: OldDesignator=C53 NewDesignator=C56
+Change Component Designator: OldDesignator=C54 NewDesignator=C57
+Change Component Designator: OldDesignator=C55 NewDesignator=C58
+Change Component Designator: OldDesignator=C56 NewDesignator=C59
+Change Component Designator: OldDesignator=C57 NewDesignator=C60
+Change Component Designator: OldDesignator=C58 NewDesignator=C61
+Change Component Designator: OldDesignator=C59 NewDesignator=C62
+Change Component Designator: OldDesignator=C60 NewDesignator=C63
+Change Component Designator: OldDesignator=C61 NewDesignator=C64
+Change Component Designator: OldDesignator=C62 NewDesignator=C65
+Change Component Designator: OldDesignator=C63 NewDesignator=C66
+Change Component Designator: OldDesignator=C64 NewDesignator=C67
+Change Component Designator: OldDesignator=C65 NewDesignator=C68
+Change Component Designator: OldDesignator=C66 NewDesignator=C69
+Change Component Designator: OldDesignator=C67 NewDesignator=C70
+Change Component Designator: OldDesignator=C68 NewDesignator=C71
+Change Component Designator: OldDesignator=C69 NewDesignator=C72
+Change Component Designator: OldDesignator=C70 NewDesignator=C73
+Change Component Designator: OldDesignator=C71 NewDesignator=C74
+Change Component Designator: OldDesignator=C72 NewDesignator=C75
+Change Component Designator: OldDesignator=C73 NewDesignator=C76
+Change Component Designator: OldDesignator=C74 NewDesignator=C77
+Change Component Designator: OldDesignator=C75 NewDesignator=C78
+Change Component Designator: OldDesignator=C76 NewDesignator=C79
+Change Component Designator: OldDesignator=C77 NewDesignator=C80
+Change Component Designator: OldDesignator=C78 NewDesignator=C81
+Change Component Designator: OldDesignator=C79 NewDesignator=C82
+Change Component Designator: OldDesignator=C80 NewDesignator=C83
+Change Component Designator: OldDesignator=C81 NewDesignator=C84
+Change Component Designator: OldDesignator=C82 NewDesignator=C85
+Change Component Designator: OldDesignator=C83 NewDesignator=C86
+Change Component Designator: OldDesignator=C84 NewDesignator=C87
+Change Component Designator: OldDesignator=C85 NewDesignator=C88
+Change Component Designator: OldDesignator=C86 NewDesignator=C89
+Change Component Designator: OldDesignator=C87 NewDesignator=C90
+Change Component Designator: OldDesignator=C88 NewDesignator=C91
+Change Component Designator: OldDesignator=C89 NewDesignator=C92
+Change Component Designator: OldDesignator=C90 NewDesignator=C93
+Change Component Designator: OldDesignator=C91 NewDesignator=C94
+Change Component Designator: OldDesignator=C? NewDesignator=C53
+Change Component Designator: OldDesignator=C? NewDesignator=C54
+Change Component Designator: OldDesignator=C? NewDesignator=C55
+Change Component Designator: OldDesignator=R14 NewDesignator=R20
+Change Component Designator: OldDesignator=R15 NewDesignator=R21
+Change Component Designator: OldDesignator=R16 NewDesignator=R22
+Change Component Designator: OldDesignator=R17 NewDesignator=R23
+Change Component Designator: OldDesignator=R18 NewDesignator=R24
+Change Component Designator: OldDesignator=R19 NewDesignator=R25
+Change Component Designator: OldDesignator=R20 NewDesignator=R26
+Change Component Designator: OldDesignator=R21 NewDesignator=R27
+Change Component Designator: OldDesignator=R22 NewDesignator=R28
+Change Component Designator: OldDesignator=R23 NewDesignator=R29
+Change Component Designator: OldDesignator=R24 NewDesignator=R30
+Change Component Designator: OldDesignator=R25 NewDesignator=R31
+Change Component Designator: OldDesignator=R26 NewDesignator=R32
+Change Component Designator: OldDesignator=R27 NewDesignator=R33
+Change Component Designator: OldDesignator=R28 NewDesignator=R34
+Change Component Designator: OldDesignator=R29 NewDesignator=R35
+Change Component Designator: OldDesignator=R30 NewDesignator=R36
+Change Component Designator: OldDesignator=R31 NewDesignator=R37
+Change Component Designator: OldDesignator=R32 NewDesignator=R38
+Change Component Designator: OldDesignator=R33 NewDesignator=R39
+Change Component Designator: OldDesignator=R34 NewDesignator=R40
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=U2 NewDesignator=U4
+Change Component Designator: OldDesignator=U3 NewDesignator=U5
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Added Pin To Net: NetName=NetR?_2 Pin=R14-2
+Added Pin To Net: NetName=NVCC_DRAM Pin=U1-AA19
+Added Pin To Net: NetName=DRAM_DATA20 Pin=U1-AA26
+Added Pin To Net: NetName=DRAM_DATA14 Pin=U1-AB16
+Added Pin To Net: NetName=DRAM_DATA9 Pin=U1-AB18
+Added Pin To Net: NetName=DRAM_SDQS1_P Pin=U1-AB20
+Added Pin To Net: NetName=DRAM_ADDR4 Pin=U1-AB24
+Added Pin To Net: NetName=DRAM_ADDR3 Pin=U1-AB25
+Added Pin To Net: NetName=DRAM_DATA21 Pin=U1-AB26
+Added Pin To Net: NetName=DRAM_DATA22 Pin=U1-AB27
+Added Pin To Net: NetName=DRAM_DATA23 Pin=U1-AB28
+Added Pin To Net: NetName=DRAM_DATA11 Pin=U1-AC16
+Added Pin To Net: NetName=DRAM_DATA8 Pin=U1-AC18
+Added Pin To Net: NetName=NVCC_DRAM Pin=U1-AC19
+Added Pin To Net: NetName=DRAM_SDQS1_N Pin=U1-AC20
+Added Pin To Net: NetName=DRAM_ADDR9 Pin=U1-AC22
+Added Pin To Net: NetName=DRAM_ADDR0 Pin=U1-AC24
+Added Pin To Net: NetName=DRAM_ADDR1 Pin=U1-AC25
+Added Pin To Net: NetName=DRAM_ADDR2 Pin=U1-AC26
+Added Pin To Net: NetName=DRAM_SDQS2_P Pin=U1-AC27
+Added Pin To Net: NetName=DRAM_DATA10 Pin=U1-AD16
+Added Pin To Net: NetName=DRAM_DATA12 Pin=U1-AD18
+Added Pin To Net: NetName=DRAM_SDQM1 Pin=U1-AD20
+Added Pin To Net: NetName=DRAM_ADDR8 Pin=U1-AD22
+Added Pin To Net: NetName=DRAM_SDQS2_N Pin=U1-AD27
+Added Pin To Net: NetName=DRAM_SDQM2 Pin=U1-AD28
+Added Pin To Net: NetName=DRAM_DATA15 Pin=U1-AE16
+Added Pin To Net: NetName=DRAM_DATA13 Pin=U1-AE18
+Added Pin To Net: NetName=DRAM_ADDR7 Pin=U1-AE22
+Added Pin To Net: NetName=DRAM_ADDR5 Pin=U1-AE23
+Added Pin To Net: NetName=DRAM_SDCLK0_P Pin=U1-AE25
+Added Pin To Net: NetName=DRAM_CS0_B Pin=U1-AE26
+Added Pin To Net: NetName=NVCC_DRAM Pin=U1-AF17
+Added Pin To Net: NetName=NVCC_DRAM Pin=U1-AF18
+Added Pin To Net: NetName=NVCC_DRAM Pin=U1-AF19
+Added Pin To Net: NetName=DRAM_DATA4 Pin=U1-AF20
+Added Pin To Net: NetName=DRAM_DATA6 Pin=U1-AF21
+Added Pin To Net: NetName=DRAM_DATA3 Pin=U1-AF22
+Added Pin To Net: NetName=DRAM_ADDR6 Pin=U1-AF23
+Added Pin To Net: NetName=DRAM_SDCLK0_N Pin=U1-AF25
+Added Pin To Net: NetName=NVCC_DRAM Pin=U1-AG18
+Added Pin To Net: NetName=DRAM_DATA1 Pin=U1-AG19
+Added Pin To Net: NetName=DRAM_DATA2 Pin=U1-AG20
+Added Pin To Net: NetName=DRAM_DATA5 Pin=U1-AG22
+Added Pin To Net: NetName=DRAM_SDQS0_N Pin=U1-AG23
+Added Pin To Net: NetName=DRAM_SDQS0_P Pin=U1-AG24
+Added Pin To Net: NetName=NVCC_DRAM Pin=U1-AH18
+Added Pin To Net: NetName=DRAM_DATA7 Pin=U1-AH20
+Added Pin To Net: NetName=DRAM_DATA0 Pin=U1-AH22
+Added Pin To Net: NetName=DRAM_SDQM0 Pin=U1-AH24
+Added Pin To Net: NetName=DDR_VREF Pin=U1-T20
+Added Pin To Net: NetName=DRAM_DATA27 Pin=U1-T22
+Added Pin To Net: NetName=DRAM_DATA26 Pin=U1-T23
+Added Pin To Net: NetName=DRAM_DATA31 Pin=U1-T24
+Added Pin To Net: NetName=DRAM_DATA30 Pin=U1-T25
+Added Pin To Net: NetName=NVCC_DRAM Pin=U1-V20
+Added Pin To Net: NetName=DRAM_DATA25 Pin=U1-V22
+Added Pin To Net: NetName=DRAM_DATA24 Pin=U1-V23
+Added Pin To Net: NetName=DRAM_DATA28 Pin=U1-V24
+Added Pin To Net: NetName=DRAM_DATA29 Pin=U1-V25
+Added Pin To Net: NetName=NVCC_DRAM Pin=U1-V27
+Added Pin To Net: NetName=NVCC_DRAM Pin=U1-V28
+Added Pin To Net: NetName=NVCC_DRAM Pin=U1-W21
+Added Pin To Net: NetName=NVCC_DRAM Pin=U1-W23
+Added Pin To Net: NetName=NVCC_DRAM Pin=U1-W26
+Added Pin To Net: NetName=DRAM_DATA16 Pin=U1-W27
+Added Pin To Net: NetName=NVCC_DRAM Pin=U1-Y20
+Added Pin To Net: NetName=DRAM_SDCKE0 Pin=U1-Y22
+Added Pin To Net: NetName=DRAM_SDQS3_P Pin=U1-Y23
+Added Pin To Net: NetName=DRAM_SDQS3_N Pin=U1-Y24
+Added Pin To Net: NetName=DRAM_SDQM3 Pin=U1-Y25
+Added Pin To Net: NetName=DRAM_DATA18 Pin=U1-Y26
+Added Pin To Net: NetName=DRAM_DATA17 Pin=U1-Y27
+Added Pin To Net: NetName=DRAM_DATA19 Pin=U1-Y28
+Added Pin To Net: NetName=DRAM_DATA31 Pin=U2-B7
+Added Pin To Net: NetName=DRAM_DATA29 Pin=U2-B8
+Added Pin To Net: NetName=DRAM_DATA26 Pin=U2-B9
+Added Pin To Net: NetName=DRAM_DATA25 Pin=U2-C8
+Added Pin To Net: NetName=NetR?_2 Pin=U2-D3
+Added Pin To Net: NetName=DRAM_DATA30 Pin=U2-D6
+Added Pin To Net: NetName=DRAM_DATA27 Pin=U2-D7
+Added Pin To Net: NetName=DRAM_SDQS3_P Pin=U2-D8
+Added Pin To Net: NetName=DRAM_SDQS3_N Pin=U2-D9
+Added Pin To Net: NetName=DRAM_ADDR9 Pin=U2-E2
+Added Pin To Net: NetName=DRAM_ADDR8 Pin=U2-E3
+Added Pin To Net: NetName=DRAM_DATA28 Pin=U2-E5
+Added Pin To Net: NetName=DRAM_DATA24 Pin=U2-E6
+Added Pin To Net: NetName=DRAM_SDQM3 Pin=U2-E7
+Added Pin To Net: NetName=DRAM_DATA15 Pin=U2-E8
+Added Pin To Net: NetName=DRAM_ADDR6 Pin=U2-F2
+Added Pin To Net: NetName=DRAM_ADDR7 Pin=U2-F3
+Added Pin To Net: NetName=DRAM_DATA11 Pin=U2-F6
+Added Pin To Net: NetName=DRAM_DATA13 Pin=U2-F7
+Added Pin To Net: NetName=DRAM_DATA14 Pin=U2-F8
+Added Pin To Net: NetName=DRAM_DATA12 Pin=U2-F9
+Added Pin To Net: NetName=DRAM_ADDR5 Pin=U2-G2
+Added Pin To Net: NetName=DRAM_SDQS1_N Pin=U2-G5
+Added Pin To Net: NetName=DRAM_SDQS1_P Pin=U2-G6
+Added Pin To Net: NetName=DRAM_DATA10 Pin=U2-G7
+Added Pin To Net: NetName=DRAM_DATA9 Pin=U2-G8
+Added Pin To Net: NetName=DRAM_DATA8 Pin=U2-G9
+Added Pin To Net: NetName=DRAM_SDCLK0_N Pin=U2-H3
+Added Pin To Net: NetName=DRAM_SDQM1 Pin=U2-H5
+Added Pin To Net: NetName=DRAM_SDCLK0_P Pin=U2-J3
+Added Pin To Net: NetName=DRAM_SDCKE0 Pin=U2-K1
+Added Pin To Net: NetName=DRAM_SDQM0 Pin=U2-K5
+Added Pin To Net: NetName=DRAM_CS0_B Pin=U2-L1
+Added Pin To Net: NetName=DRAM_SDQS0_N Pin=U2-L5
+Added Pin To Net: NetName=DRAM_SDQS0_P Pin=U2-L6
+Added Pin To Net: NetName=DRAM_DATA5 Pin=U2-L7
+Added Pin To Net: NetName=DRAM_DATA6 Pin=U2-L8
+Added Pin To Net: NetName=DRAM_DATA7 Pin=U2-L9
+Added Pin To Net: NetName=DRAM_ADDR4 Pin=U2-M1
+Added Pin To Net: NetName=DRAM_ADDR3 Pin=U2-M2
+Added Pin To Net: NetName=DRAM_ADDR2 Pin=U2-M3
+Added Pin To Net: NetName=DRAM_DATA4 Pin=U2-M6
+Added Pin To Net: NetName=DRAM_DATA2 Pin=U2-M7
+Added Pin To Net: NetName=DRAM_DATA1 Pin=U2-M8
+Added Pin To Net: NetName=DRAM_DATA3 Pin=U2-M9
+Added Pin To Net: NetName=DRAM_ADDR1 Pin=U2-N3
+Added Pin To Net: NetName=DRAM_DATA19 Pin=U2-N5
+Added Pin To Net: NetName=DRAM_DATA23 Pin=U2-N6
+Added Pin To Net: NetName=DRAM_SDQM2 Pin=U2-N7
+Added Pin To Net: NetName=DRAM_DATA0 Pin=U2-N8
+Added Pin To Net: NetName=DRAM_ADDR0 Pin=U2-P3
+Added Pin To Net: NetName=DRAM_DATA17 Pin=U2-P6
+Added Pin To Net: NetName=DRAM_DATA20 Pin=U2-P7
+Added Pin To Net: NetName=DRAM_SDQS2_P Pin=U2-P8
+Added Pin To Net: NetName=DRAM_SDQS2_N Pin=U2-P9
+Added Pin To Net: NetName=DRAM_DATA22 Pin=U2-R8
+Added Pin To Net: NetName=DRAM_DATA16 Pin=U2-T7
+Added Pin To Net: NetName=DRAM_DATA18 Pin=U2-T8
+Added Pin To Net: NetName=DRAM_DATA21 Pin=U2-T9
+Change Net Name : Old Net Name=NetC81_1 New Net Name=NetC84_1
+Change Net Name : Old Net Name=NetC83_1 New Net Name=NetC86_1
+Change Net Name : Old Net Name=NetC87_2 New Net Name=NetC90_2
+Change Net Name : Old Net Name=NetC88_2 New Net Name=NetC91_2
+Change Net Name : Old Net Name=NetC89_1 New Net Name=NetC92_1
+Change Net Name : Old Net Name=NetC89_2 New Net Name=NetC92_2
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC53_2
+Change Net Name : Old Net Name=NetR23_1 New Net Name=NetR29_1
+Change Net Name : Old Net Name=NetR31_2 New Net Name=NetR37_2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR14_2
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetR15_2 Pin=U2-C3
+Added Net: Name=NetR15_2
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=U1-Y18
+Added Net: Name=NetR17_2
+Added Member To Class: ClassName=IMX7S_MEMORY Member=Component C53 C0402
+Added Member To Class: ClassName=IMX7S_MEMORY Member=Component C55 C0201
+Added Member To Class: ClassName=IMX7S_MEMORY Member=Component R14 R0201
+Added Member To Class: ClassName=IMX7S_MEMORY Member=Component R15 R0201
+Added Member To Class: ClassName=IMX7S_MEMORY Member=Component R16 R0201
+Added Member To Class: ClassName=IMX7S_MEMORY Member=Component R17 R0201
+Added Member To Class: ClassName=IMX7S_PMIC Member=Component R24 R0201
+Added Member To Class: ClassName=IMX7S_PMIC Member=Component R25 R0201
+Added Member To Class: ClassName=IMX7S_MEMORY Member=Component U2 EDB2432B4MA-1DAAT-F-R
