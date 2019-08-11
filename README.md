@@ -1,17 +1,18 @@
 # IMX7S_Design
 
-##Finiched Shematics
+##Schematics completed
 
-###PMIC
-![PMIC](PMIC.png)
-###CPU Power
-![CPU_POWER](CPU_POWER.png)
-###PMIC Management
-![POWER](POWER.png)
-###Memory
-![MEMORY](MEMORY.png)
-###CPU Interface
-![CPU_INTERFACE1](CPU_INTERFACE1.png)
-![CPU_INTERFACE2](CPU_INTERFACE2.png)
-###Wireless
-![WIRELESS](WIRELESS.png)
+######PMIC
+
+![PMIC](PMIC.PNG)
+######CPU Power
+![CPU_POWER](CPU_POWER.PNG)
+######PMIC Management
+![POWER](POWER.PNG)
+######Memory
+![MEMORY](MEMORY.PNG)
+######CPU Interface
+![CPU_INTERFACE1](CPU_INTERFACE1.PNG)
+![CPU_INTERFACE2](CPU_INTERFACE2.PNG)
+######Wireless
+![WIRELESS](WIRELESS.PNG)
