@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=NetR80_1 New Net Name=FTDI_USB_N
+Change Net Name : Old Net Name=NetR81_1 New Net Name=FTDI_USB_P
+Added Differential Pair: Name=FTDI_USB
