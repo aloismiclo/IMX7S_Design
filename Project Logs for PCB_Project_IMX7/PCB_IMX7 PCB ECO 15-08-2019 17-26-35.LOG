@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=GND Pin=C157-1
+Removed Pin From Net: NetName=PERI_3V15 Pin=C157-2
+Removed Pin From Net: NetName=GND Pin=C161-1
+Removed Pin From Net: NetName=NTAG_FD_INT Pin=R56-1
+Removed Pin From Net: NetName=PERI_3V15 Pin=R56-2
+Removed Pin From Net: NetName=I2C2_SDA Pin=R57-1
+Removed Pin From Net: NetName=PERI_3V15 Pin=R57-2
+Removed Pin From Net: NetName=I2C2_SCL Pin=R58-1
+Removed Pin From Net: NetName=PERI_3V15 Pin=R58-2
+Removed Pin From Net: NetName=GND Pin=U15-2
+Removed Pin From Net: NetName=I2C2_SCL Pin=U15-3
+Removed Pin From Net: NetName=NTAG_FD_INT Pin=U15-4
+Removed Pin From Net: NetName=I2C2_SDA Pin=U15-5
+Removed Pin From Net: NetName=PERI_3V15 Pin=U15-6
+Removed Member From Class: ClassName=IMX7S_WIRELESS Member=ANT2
+Removed Member From Class: ClassName=IMX7S_WIRELESS Member=C157
+Removed Member From Class: ClassName=IMX7S_WIRELESS Member=C158
+Removed Member From Class: ClassName=IMX7S_WIRELESS Member=C159
+Removed Member From Class: ClassName=IMX7S_WIRELESS Member=C160
+Removed Member From Class: ClassName=IMX7S_WIRELESS Member=C161
+Removed Member From Class: ClassName=IMX7S_WIRELESS Member=R56
+Removed Member From Class: ClassName=IMX7S_WIRELESS Member=R57
+Removed Member From Class: ClassName=IMX7S_WIRELESS Member=R58
+Removed Member From Class: ClassName=IMX7S_WIRELESS Member=U15
+Added Room: Name=IMX7S_CONNECTORS_&_IHM
+Added Room: Name=IMX7S_CPU_INTERFACES_1
+Added Room: Name=IMX7S_CPU_INTERFACES_2
+Added Room: Name=IMX7S_CPU_POWER
+Added Room: Name=IMX7S_DEBUG
+Added Room: Name=IMX7S_MEMORY
+Added Room: Name=IMX7S_PMIC
+Added Room: Name=IMX7S_POWER
+Added Room: Name=IMX7S_SENSORS_&_EXTERNAL_INTERFACES
+Added Room: Name=IMX7S_WIRELESS
